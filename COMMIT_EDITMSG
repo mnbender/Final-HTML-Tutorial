@@ -1,0 +1,16 @@
+HTML Final Tutorial
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   FES.svg
+#	new file:   about.jpg
+#	new file:   discord.png
+#	new file:   index.html
+#	new file:   laptop.png
+git commit _m "HTML Tutorial"
+
